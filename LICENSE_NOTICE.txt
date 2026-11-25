@@ -1,8 +1,0 @@
-Shatranj.in — Open-Source License & Engine Notice
-
-1. Shatranj.in Brand & Custom Icon: All rights reserved by the Shatranj.in author.
-2. Native UCI Engines (Optional):
-   - Stockfish (libstockfish.so): GNU General Public License v3.0 (GPLv3).
-   - Leela Chess Zero / Lc0 (liblc0.so + weights): GNU General Public License v3.0 (GPLv3).
-   If you distribute an APK/AAB containing GPLv3 engine binaries, the combined binary distribution must comply with GNU GPLv3 (including providing corresponding source code).
-3. Jetpack Compose, AndroidX, and Material Icons: Apache License 2.0.
